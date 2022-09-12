@@ -18,3 +18,8 @@ A computer engineer/software developer who is versatile in nature & is capable o
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pokkode.me/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princewill-kalu-orie-28621a23b/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KhayPrincewill)
+
+## Quotes
+
+ ![App Scrrenshot](https://i.postimg.cc/PxDKQHxY/IMG-20220911-150323-890.jpg)
+ 
