@@ -1,3 +1,7 @@
+## Pokkode
+
+![App Screenshot](https://i.postimg.cc/g2fYZ3wv/Photo-Grid-1663234793051.jpg)
+
 ### Hi there 👋, I'm Princewill Kalu Orie
 
 A computer engineer/software developer who is versatile in nature & is capable of doing anything possible.
