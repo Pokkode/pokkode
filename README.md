@@ -4,14 +4,14 @@
 
 ### Hi there 👋, I'm Princewill Kalu Orie
 
-A computer engineer/software developer who is versatile in nature & is capable of doing anything possible.
+A computer engineer/software engineer versatile in nature & is capable of doing anything possible.
 
 
 
-- 🔭 I’m currently working on being a software developer...
-- 🌱 I’m currently learning web development and blockchain basics...
+<!--- 🔭 I’m currently working on being a software developer...
+- 🌱 I’m currently learning web development and blockchain basics...-->
 - 👯 I’m looking to collaborate on new ideas...
-- 🤔 I’m looking for help with a few stuffs
+<!--- 🤔 I’m looking for help with a few stuffs-->
 - 💬 Ask me about my journey into tech...
 - 📫 How to reach me:pokkode2tw@gmail.com or +2348108310768
 
