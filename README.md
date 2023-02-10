@@ -4,7 +4,7 @@
 
 ### Hi there 👋, I'm Princewill Kalu Orie
 
-A computer engineer/software engineer versatile in nature & is capable of doing anything possible.
+A computer software engineer versatile in nature & is capable of doing anything possible.
 
 
 
